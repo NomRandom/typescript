@@ -31,7 +31,7 @@ Sauf qu'il n'y a qu'un seul param à présent ce qui peut
 engendrer des erreurs de runtime. Soit à cause du nombre de 
 params ou du retour différents
 
-Pour eêtre sur que la var est associée au bon type de function
+Pour être sur que la var est associée au bon type de function
 on peut faire de cette manière :
 
 (on precise le type de param entre les parenthèse et

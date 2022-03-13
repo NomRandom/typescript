@@ -31,7 +31,7 @@ if (typeof userInputUnknown === "string") {
 Il permet juste de ne pas renvoyer un void et indique de manière 
 visible que la méthode ne renvoie rien
 
-(type peut utilisé)
+(type peu utilisé)
 
 ex : methode jetant une erreur
 */
@@ -44,6 +44,6 @@ Pour eviter de faire à chaque fois tsc app.ts,
 
 on peut utiliser l'invite de commande tsc app.ts -w
 
-(correspondant au wathc mode)
+(correspondant au watch mode)
 (pour quitter le mode wathcmode ctrl + c)
 */
